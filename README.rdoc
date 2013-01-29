@@ -1,0 +1,11 @@
+= newrelic-cassandra
+
+* http://github.com/ryangraham/newrelic-cassandra
+
+== DESCRIPTION:
+
+Cassandra instrumentation for Newrelic.
+
+== INSTALL:
+
+* gem install newrelic-cassandra
